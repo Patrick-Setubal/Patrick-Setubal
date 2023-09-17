@@ -1,11 +1,11 @@
 ### Welcome to my profile, my name is Patrick Setubal 👋
 
-## Contacts (Click 👆)
+## Contacts
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-setubal-2b502b115/)  [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patricksetubal/) [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521974074208?text=%5BI+come+by+GitHub%5D+Hello+Patrick+Setubal+)  [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrick_setubal@hotmail.com?subject=I%20come%20by%20GitHub) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Setubal&layout=compact&theme=dark)
 
-## Technologies (Hover 👆)
+## Technologies
 <div style="display: inline_block">
     <img align="center" title="Python" alt="Python" width="33" height="" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="padding: 0px 3px 0px 5px"/>
     <img align="center" title="PowerApps" alt="PowerApps" width="33" height="" src="https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200929195935" style="padding: 0px 0px 0px 3px"/>
